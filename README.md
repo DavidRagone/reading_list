@@ -16,10 +16,18 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 
 
-####[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104 "Amazon: Eloquent Ruby") Russ Olsen##
+####[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104 "Amazon: Eloquent Ruby") Russ Olsen####
 
 > A brillaint resource for anyone who is new to Ruby (though I'd recommend that you're somewhat familiar with programming, and ideally have played around with Ruby at least a bit). Eloquent Ruby is not an exercises or project-based book, but rather a wonderfully detailed explanation of all the unique, programmer-friendly features that are core to being a strong Rubyist. 
 >
 > Please see further thoughts (and my detailed notes) at [dmragone.com](http://www.dmragone.com/post/31690211664 "Eloquent Ruby - thoughts and notes (dmragone.com)")
+
+__________________________________
+
+####[The Power of Habit: Why We Do What We Do in Life and Business](http://www.amazon.com/The-Power-Habit-Business-ebook/dp/B0055PGUYU "Amazon: The Power of Habit") Charles Duhigg####
+
+> I greatly enjoyed reading this book. It felt all strangely familiar (I believe I'd read various excerpts, reviews, and perhaps even some coverage of the various stufies and anecdotes used by Duhigg), but great fun to read regardless. It's an easy read, though if you're crunched for time, the value decreases in the last two sections, with the last one being a bit off-point and out-of-place. 
+>
+> I wrote [a brief post about Habit at dmragone.com](http://www.dmragone.com/post/31013676349 "Willpower is a muscle - go get some exercise (dmragone.com")
 
 __________________________________
