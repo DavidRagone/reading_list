@@ -31,12 +31,12 @@ __________________________________
 > I wrote [a brief post about Habit at dmragone.com](http://www.dmragone.com/post/31013676349 "Willpower is a muscle - go get some exercise (dmragone.com")
 
 __________________________________
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
 ## To Read ##
 
 #####[Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/dp/0321503627?tag=httpwwwm3pcou-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0321503627&adid=06D115KV8RV2P73KHNC1&&ref-refURL=http%3A%2F%2Fwww.growing-object-oriented-software.com%2F "Amazon: GOOS")
