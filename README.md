@@ -14,10 +14,12 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books ##
 
-__________________________________
+
 
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104 "Amazon: Eloquent Ruby") Russ Olsen
 
 > A brillaint resource for anyone who is new to Ruby (though I'd recommend that you're somewhat familiar with programming, and ideally have played around with Ruby at least a bit). Eloquent Ruby is not an exercises or project-based book, but rather a wonderfully detailed explanation of all the unique, programmer-friendly features that are core to being a strong Rubyist. 
 >
 > Please see further thoughts (and my detailed notes) at [dmragone.com](http://www.dmragone.com/post/31690211664 "Eloquent Ruby - thoughts and notes (dmragone.com)")
+
+__________________________________
