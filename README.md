@@ -31,3 +31,37 @@ __________________________________
 > I wrote [a brief post about Habit at dmragone.com](http://www.dmragone.com/post/31013676349 "Willpower is a muscle - go get some exercise (dmragone.com")
 
 __________________________________
+
+
+
+
+
+
+## To Read ##
+
+####[Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/dp/0321503627?tag=httpwwwm3pcou-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0321503627&adid=06D115KV8RV2P73KHNC1&&ref-refURL=http%3A%2F%2Fwww.growing-object-oriented-software.com%2F "Amazon: GOOS")
+  
+####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns")
+  
+####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby")
+  
+####[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ "Amazon: JavaScript the Good Parts")
+  
+####[Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ "Amazon: Secrets of the JavaScipt Ninja")
+  
+####[Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476 "Amazon: Metaprogramming Ruby")
+  
+####[The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379 "Amazon: The RSpec Book")
+  
+####[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X "Amazon: The Pragmatic Programmer")
+  
+####[Crafting Rails Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Development-Programmers/dp/1934356735 "Amazon: Crafting Rails Applications")
+  
+####[Beginning Unix (Programmer to Programmer)](http://www.amazon.com/Beginning-Unix-Programmer-Paul-Love/dp/0764579940 "Amazon: Beginning Unix")
+  
+####[Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X "Amazon: Seven Languages in Seven Weeks")
+
+####[Arduino: A Quick Start Guide](http://www.amazon.com/Arduino-Quick-Start-Quick-Start-Guides/dp/1934356662 "Amazon: Arduino Quick Start Guide")
+  
+####[The Agile Samurai: How Agile Masters Deliver Great Software](http://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581 "Amazon: The Agile Samurai")
+  
