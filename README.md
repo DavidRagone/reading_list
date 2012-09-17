@@ -49,6 +49,8 @@ __________________________________
   
 #####[Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ "Amazon: Secrets of the JavaScipt Ninja")
   
+#####[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Learning JavaScript Design Patterns")
+  
 #####[Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476 "Amazon: Metaprogramming Ruby")
   
 #####[The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379 "Amazon: The RSpec Book")
