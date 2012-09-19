@@ -32,9 +32,9 @@ __________________________________
 
 __________________________________
   
-#####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns") Dave Hoover & Adewale Oshineye ####
+####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns") Dave Hoover & Adewale Oshineye ####
   
-> I found the design patterns format of context/problem/solution/action to make my traditional note-taking habits difficult. I didn't want to include all the details, but felt I could not adequately describe the solutions without the details. I eventually succumbed to summarize (poorly) each of the apprenticeship patterns. 
+> I found the design patterns format of context/problem/solution/action made my traditional note-taking habits difficult. I didn't want to include all the details, but felt I could not adequately describe the solutions without the details. I eventually succumbed to summarize (poorly) each of the apprenticeship patterns. 
 > A lot of the book read like smart common sense, at least for me. Though I found myself agreeing wiht it completely, the situationality and somewhat obviousness of the advice did not blow me away. However, the specificity of the 'Action' sections were quite nice. Adequately described, they are each actionable (and helpful in addressing the problem).
 
 __________________________________
