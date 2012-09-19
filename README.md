@@ -32,16 +32,19 @@ __________________________________
 
 __________________________________
   
+#####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns") Dave Hoover & Adewale Oshineye ####
   
+> I found the design patterns format of context/problem/solution/action to make my traditional note-taking habits difficult. I didn't want to include all the details, but felt I could not adequately describe the solutions without the details. I eventually succumbed to summarize (poorly) each of the apprenticeship patterns. 
+> A lot of the book read like smart common sense, at least for me. Though I found myself agreeing wiht it completely, the situationality and somewhat obviousness of the advice did not blow me away. However, the specificity of the 'Action' sections were quite nice. Adequately described, they are each actionable (and helpful in addressing the problem).
+
+__________________________________
   
-  
-  
+
+
   
 ## To Read ##
 
 #####[Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/dp/0321503627?tag=httpwwwm3pcou-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0321503627&adid=06D115KV8RV2P73KHNC1&&ref-refURL=http%3A%2F%2Fwww.growing-object-oriented-software.com%2F "Amazon: GOOS")
-  
-#####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns")
   
 #####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby")
   
