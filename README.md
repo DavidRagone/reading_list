@@ -18,7 +18,7 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ####[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104 "Amazon: Eloquent Ruby") Russ Olsen####
 
-> A brillaint resource for anyone who is new to Ruby (though I'd recommend that you're somewhat familiar with programming, and ideally have played around with Ruby at least a bit). Eloquent Ruby is not an exercises or project-based book, but rather a wonderfully detailed explanation of all the unique, programmer-friendly features that are core to being a strong Rubyist. 
+> A brillaint resource for anyone who is new to Ruby (though I think it's helpful to be somewhat familiar with programming, and ideally have played around with Ruby at least a bit). Eloquent Ruby is not an exercises or project-based book, but rather a wonderfully detailed explanation of all the unique, programmer-friendly features that are core to being a strong Rubyist. 
 >
 > Please see further thoughts (and my detailed notes) at [dmragone.com](http://www.dmragone.com/post/31690211664 "Eloquent Ruby - thoughts and notes (dmragone.com)")
 
@@ -35,6 +35,7 @@ __________________________________
 ####[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382 "Amazon: Apprenticeship Patterns") Dave Hoover & Adewale Oshineye ####
   
 > I found the design patterns format of context/problem/solution/action made my traditional note-taking habits difficult. I didn't want to include all the details, but felt I could not adequately describe the solutions without the details. I eventually succumbed to summarize (poorly) each of the apprenticeship patterns. 
+>
 > A lot of the book read like smart common sense, at least for me. Though I found myself agreeing wiht it completely, the situationality and somewhat obviousness of the advice did not blow me away. However, the specificity of the 'Action' sections were quite nice. Adequately described, they are each actionable (and helpful in addressing the problem).
 
 __________________________________
@@ -42,8 +43,11 @@ __________________________________
 ####[Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/dp/0321503627?tag=httpwwwm3pcou-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0321503627&adid=06D115KV8RV2P73KHNC1&&ref-refURL=http%3A%2F%2Fwww.growing-object-oriented-software.com%2F "Amazon: GOOS") Steve Freeman & Nat Price ####
 
 > This book is filled with wisdom about how to write good object-oriented, test-driven code. Heavy emphasis on readability and using tests as a design element, not just for code accuracy, results in (what are to me at least) very impactful thoughts on how to approach development. 
+>
 > The only down-side of the book is the extensive example in the middle that is written in Java. I had no interest in learning Java in order to better read the examples, so instead relied on their descriptions of the project and how it demonstrates their system of development.
+>
 > Thankfully the first two sections are well-condensed yet detailed descriptions of the theory, so I was able to get quite a lot out of it.
+>
 > I highly recommend this to anyone who is intereted in TDD. This feels like the right way to do things.
 
 __________________________________
@@ -51,6 +55,8 @@ __________________________________
 
   
 ## To Read ##
+
+#####[Programming Ruby 1.9: The Pragmatic Programmers' Guid](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085 "Amazon: Programming Ruby 1.9")
 
 #####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby")
   
