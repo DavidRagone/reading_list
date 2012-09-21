@@ -85,4 +85,39 @@
         * used for exchanging structured data in close-to-real-time
     * intro to the design of an app, working through the what to the basic to-do
     * note that it is declared _not_ proper agile process
-* 
+* Chaper 10 - The Walking Skeleton
+    * point is to help us understand requirements well enough to propose & _validate_ a broad-brush system structure
+    * for most projects, this takes surprising amount of effort
+    * start the walking skeleton with a test
+    * write test as if implementation already exists - "programming by wishful thinking"
+* Chapter 11 - Passing the First Test
+    * testing most basic end-to-end
+    * first implementation leaves out lots of details (example of single instance variable instead of real version needing multiple); only purpose of this version of build is to support the test
+    * in professional org, expect separate db instance for each developer and also expect min one test rig that represents production environment
+* Chapter 12 - Getting Ready to Bid
+    * start the next feature of sample app w/ acceptance teset; use these going forward to show incremental progress
+    * each acceptance test should force a manageable increase in functionality
+    * authors' approach to TDD is to start w/ outside even that triggers the behavior they want to implement and work way into code an object at a time, until reach a visible effect (e.g. sent messsage or log entry) indicating goal was achieved
+* Chapter 17 - Teasing Apart Main
+    * coding is like rock-climbing: apply the "three-point contact" rule - move one hand/foot at a time to minimize risk of falling off; each move is minimal & safe
+    * refactoring is a design activity - need to apply all dev skills simultaneously to it
+
+## Part IV - Sustainable Test-Driven Development ##
+* Chapter 20 - Listening to the Tests
+    * make the boundaries of an object clearly visible; objects should only deal with values and instances that are local (created/managed within its scope) or passed explicitly
+    * logging: distinguish between debug & trasce (diagnostic logging as infrastructure for programmers, on only in dev/test environments) from errors & info (support logging as part of UI, on in production)
+    * Bloated Constructor
+        * if have long, unwieldy list of arguments, see if any implicit strcuture exists that can tease out to define new concept p acakged as separate object;  look for args always used together and those with same lifetime
+        * if has too many responsibilities, needs breaking up; code smell will accompany test smell, as tests for various features will have no relationship with each other
+        * if not all the arguments are dependencies, use more default values and only overwrite those for particular test cases
+    * in tests, distinguish _stubs_ (simluations of real behavior that help us get the test to pass) and _exceptions_ (assertions we want to make about how an object interacts with its neighbors)
+* Chapter 21 - Test Readability
+    * tests must express behavior of the code clearly, not just verifyt it
+    * write tests in terms of what hte object __does__, not what it __is__
+    * authors often write tests "backwards": name it first, then write target code, expections and assertions, finally setup & teardown
+    * prioritize expressiveness (and hence readability) over minimizing the source lines
+* Chapter 22 - Contstructing Complex Test Data
+    * object mother pattern: a class that contains a number of factory methods that create objects for use in tests; makes tests more readable by packaging up the code that creates new object structure, and giving it name
+
+
+Rest of the book is more advanced than I am ready for; a future read-through is in order
