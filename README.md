@@ -82,3 +82,4 @@ __________________________________
   
 #####[The Agile Samurai: How Agile Masters Deliver Great Software](http://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581 "Amazon: The Agile Samurai")
   
+#####[Pragmatic Thinking and Learning: Refactor Your Wetware](http://natashatherobot.com/2012/09/21/my-rails-new-workflow-with-testing/ "Amazon: Pragmatic Thinking and Learning: Refactor Your Wetware")
