@@ -51,12 +51,18 @@ __________________________________
 > I highly recommend this to anyone who is intereted in TDD. This feels like the right way to do things.
 
 __________________________________
+
+####[Programming Ruby 1.9: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085 "Amazon: Programming Ruby 1.9") Dave Thomas, Chad Fowler, Andy Hunt
+
+> This book is commonly referred to as 'Pickaxe', due to the cover art. 
+> As reference guide to all of Ruby's features, I don't think there's much better than this book. It covers most of (at least what I know) exists in Ruby, and provides enough information to get a sense as to what you can do. 
+> 
+> Having already read Eloquent Ruby, however, I felt that this was more of a reference book than a helpful introduction to the language. I also preferred Russ Olsen's style to that of Pickaxe, and sometimes felt that the cursory-overview of some features wasn't worth the time it took to go into them at such a shallow level.
   
+__________________________________
 
   
 ## To Read ##
-
-#####[Programming Ruby 1.9: The Pragmatic Programmers' Guid](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085 "Amazon: Programming Ruby 1.9")
 
 #####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby")
   
@@ -66,6 +72,8 @@ __________________________________
   
 #####[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Learning JavaScript Design Patterns")
   
+#####[Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/dp/0321721330 "Amazon: Practical Object-Oriented Design in Ruby")
+
 #####[Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476 "Amazon: Metaprogramming Ruby")
   
 #####[The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379 "Amazon: The RSpec Book")
