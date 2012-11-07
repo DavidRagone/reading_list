@@ -61,10 +61,14 @@ __________________________________
   
 __________________________________
 
+####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby") Russ Olsen
   
-## To Read ##
+> I loved Russ Olsen's "Eloquent Ruby", so no surprise that I greatly enjoyed Design Patterns in Ruby. 
 
-#####[Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452 "Amazon: Design Patterns in Ruby")
+> As a reference for applying some common design patterns to Ruby, it's a wonderful thing to have at hand. As an intro to how to think about design in the context of Ruby, it's a great read. 
+__________________________________
+
+## To Read ##
   
 #####[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ "Amazon: JavaScript the Good Parts")
   
