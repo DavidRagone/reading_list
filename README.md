@@ -68,9 +68,17 @@ __________________________________
 > As a reference for applying some common design patterns to Ruby, it's a wonderful thing to have at hand. As an intro to how to think about design in the context of Ruby, it's a great read. 
 __________________________________
 
+####[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ "Amazon: JavaScript the Good Parts") Douglas Crockford
+
+> For anyone who's used JavaScript and found strange things occurring,
+this is an incredibly useful resource.
+
+> While I found the last few chapters more generally informative than
+specifically applicable, the first half of the book is a treasure trove
+of detail on how JavaScript works. Definitely worth reading.
+__________________________________
+
 ## To Read ##
-  
-#####[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ "Amazon: JavaScript the Good Parts")
   
 #####[Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ "Amazon: Secrets of the JavaScipt Ninja")
   
