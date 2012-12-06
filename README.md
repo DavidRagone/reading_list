@@ -78,6 +78,21 @@ specifically applicable, the first half of the book is a treasure trove
 of detail on how JavaScript works. Definitely worth reading.
 __________________________________
 
+####[jQuery in Action](http://www.amazon.com/jQuery-Action-Second-Bear-Bibeault/dp/1935182323) Bear Bibeault & Yehuda Katz
+
+> I've written a bit of jQuery, but this was the first time I used a
+reference that was not the online docs. The version I read is from 2008
+(the linked version is from 2010), so there was some outdated
+information, but it is still a useful introduction to the wonder of
+jQuery.
+
+> I read this in the course of one evening, so I skipped a couple of
+chapters, and am sure there's more in it than my notes reflect. I
+focused on understanding how JavaScript interacts with the DOM, how
+jQuery simplifies that, and using jQuery's AJAX functionality.
+
+__________________________________
+
 ## To Read ##
   
 #####[Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ "Amazon: Secrets of the JavaScipt Ninja")
