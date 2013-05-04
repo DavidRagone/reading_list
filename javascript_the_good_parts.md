@@ -10,7 +10,7 @@ literal notation
 properties directly from other objects, not a class
 * JS depends on global variables for linkage
 
-###Chapter 2: Grammer###
+###Chapter 2: Grammar###
 * can not use reserved words (see list pp 6-7) as name of object
 property in an object literal or following a dot in a refinement
 * JS has singl enubmer type,r epresented as 64-bit float point
