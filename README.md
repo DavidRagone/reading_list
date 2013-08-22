@@ -24,6 +24,18 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 __________________________________
 
+####[Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/dp/0321721330 "Amazon: Practical Object-Oriented Design in Ruby") Sandi Metz ####
+
+> Sandi's a wonderfully person who is either brillaint or a
+> snake-oil-salesperson. It may well simply depend on whether you agree with
+> what she has to say. Coming from Smalltalk, she's a strong believer in the
+> power of Object-Oriented-Design to simplify and strengthen code. She explains
+> OOD as best applied in Ruby brillaintly, and is only outdone by her talks.
+> Watch her at RailsConf 2013, where she describes in great detail how to test
+> in Ruby. And then read this if you care to write good ruby code.
+
+__________________________________
+
 ####[The Power of Habit: Why We Do What We Do in Life and Business](http://www.amazon.com/The-Power-Habit-Business-ebook/dp/B0055PGUYU "Amazon: The Power of Habit") Charles Duhigg####
 
 > I greatly enjoyed reading this book. It felt all strangely familiar (I believe I'd read various excerpts, reviews, and perhaps even some coverage of the various stufies and anecdotes used by Duhigg), but great fun to read regardless. It's an easy read, though if you're crunched for time, the value decreases in the last two sections, with the last one being a bit off-point and out-of-place. 
@@ -94,27 +106,25 @@ jQuery simplifies that, and using jQuery's AJAX functionality.
 __________________________________
 
 ## To Read ##
-  
+
 #####[Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ "Amazon: Secrets of the JavaScipt Ninja")
-  
+
 #####[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Learning JavaScript Design Patterns")
-  
-#####[Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/dp/0321721330 "Amazon: Practical Object-Oriented Design in Ruby")
 
 #####[Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476 "Amazon: Metaprogramming Ruby")
-  
+
 #####[The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379 "Amazon: The RSpec Book")
-  
+
 #####[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X "Amazon: The Pragmatic Programmer")
-  
+
 #####[Crafting Rails Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Development-Programmers/dp/1934356735 "Amazon: Crafting Rails Applications")
-  
+
 #####[Beginning Unix (Programmer to Programmer)](http://www.amazon.com/Beginning-Unix-Programmer-Paul-Love/dp/0764579940 "Amazon: Beginning Unix")
-  
+
 #####[Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X "Amazon: Seven Languages in Seven Weeks")
 
 #####[Arduino: A Quick Start Guide](http://www.amazon.com/Arduino-Quick-Start-Quick-Start-Guides/dp/1934356662 "Amazon: Arduino Quick Start Guide")
-  
+
 #####[The Agile Samurai: How Agile Masters Deliver Great Software](http://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581 "Amazon: The Agile Samurai")
-  
+
 #####[Pragmatic Thinking and Learning: Refactor Your Wetware](http://natashatherobot.com/2012/09/21/my-rails-new-workflow-with-testing/ "Amazon: Pragmatic Thinking and Learning: Refactor Your Wetware")
