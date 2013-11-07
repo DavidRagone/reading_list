@@ -15,6 +15,21 @@ I will include anything going forward that fits the desired subjects, but may ad
 ## Books I've Read##
 
 
+####[Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564) Sam Ruby####
+
+> Despite having little to do with Agile development, and being primarily aimed
+> at programmers who are still new to Rails, I was pleasantly surprised by this
+> book. It does a wonderful job of introducing the Rails way of doing things.
+> Given the importance of convention in Rails (and the immense pain that can
+> result when fighting that convention), I found it very valuable to learn some
+> conventions I did not previously know.
+>
+> I'd recommend this book to anyone who works in Rails and has at any point read
+> or written code that felt more difficult than it should be (so basically
+> everyone who uses Rails). Most especially, every contractor and consultant who
+> works with Rails should read this.
+
+__________________________________
 
 ####[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104 "Amazon: Eloquent Ruby") Russ Olsen####
 
