@@ -41,9 +41,8 @@ others, don't care if don't give full URL on redirect)
     object)
 * after hooks are called as part of transaction
 * can raise exceptions in after hook to halt execution
-* can hide (not report to controller) exception by raising
-  ```ActiveSupport::Rollback```
-* ```scope '(:locale)'``` means optional in routes
+* can hide (not report to controller) exception by raising ```ActiveSupport::Rollback```
+* optional route section via quotes and parens ```scope '(:locale)'```
 * in dev, go to [localhost:3000/rails/info/routes](localhost:3000/rails/info/routes) to see list of routes
 * translate text via ```I18n.t``` method, avialable as ```t``` in views
 * Rails translation is kinda nice
