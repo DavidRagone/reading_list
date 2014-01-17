@@ -14,6 +14,31 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read##
 
+####[Getting Started with Twitter Flight](https://www.goodreads.com/book/show/18702049-getting-started-with-twitter-flight)
+
+> I'm excited to use Flight.js in something more than a toy app, and look forward
+> to making it my go-to for organizing jQuery-based client-side code. I think
+> it's a great option for when a full-on single-page app is overkill. It results
+> in easily testable, separate components that communicate via event triggering
+> and listening - basically PubSub.
+>
+> Sadly this book is the only one on the subject so far. As soon as there's
+> anything else, I'd recommend you not waste your time here. There's simply way
+> too many mistakes to make this anything but a frustrating read. The example app
+> that the book has the reader build seems like it was written by at least two
+> different authors. Components are referred to by different names, the directory
+> structure is referred to differently, and there are numerous mistakes in the
+> usage of multiple APIs, including Flight.js itself. Add to that a shockingly
+> high number of syntax mistakes (and not just missing semicolons - ones that
+> actually break the app), and it's all too clear that there was next to no
+> editorial effort put into this book.
+>
+> I wish I could recommend something better. In the mean time, if you have easy
+> access to a copy of the book, it's probably worth a skim to get the basic idea
+> of Flight, but you're likely much better off just reading the docs and looking
+> at some online examples.
+
+__________________________________
 
 ####[Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564) Sam Ruby####
 

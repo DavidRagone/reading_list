@@ -1,4 +1,6 @@
-# Chapter 1 - What is Flight?
+# Getting Started with Twitter Flight, Tom Hamshere
+
+## Chapter 1 - What is Flight?
 
 * piggybacks DOM to provide app structure
 * utilize DOM events to act as interface between (its) components
@@ -13,20 +15,20 @@
 * as a mustache component renders HTML, Flight UI components render behavior
 
 
-# Chapter 2 - The Advantages of Flight
+## Chapter 2 - The Advantages of Flight
 * simple format followed by most of its methods; learn one, learn all
 * blah blah blah simple organized components blah blah
 
 
-# Chapter 3 - Flight in the Wild
+## Chapter 3 - Flight in the Wild
 * oh look Twitter uses it
 
 
-# Chapter 4 - 
+## Chapter 4 - 
 * how to install things called Flight
 
 
-# Chapter 5 - Components
+## Chapter 5 - Components
 * a component is a constructor function
 * Flight provides components with set of utilities (e.g. event handling, DOM
   node selection)
@@ -55,14 +57,14 @@
     HelloWorld.attachTo(document); }```
 
 
-# Chapter 6 - UI Components
+## Chapter 6 - UI Components
 * most components are attached to elements (e.g. forms, buttons, lists)
 * in addition to listening to events, components will emit their own (for others
   to listen to, presumably)
 * components can also "interrogate" the DOM and modify the DOM
 
 
-# Chapter 7 - Data Components
+## Chapter 7 - Data Components
 * data components act as interface btwn UI and storage layers
 * should attach all data components to the document, allowing them to receive UI
   events from entire app
@@ -76,4 +78,45 @@ loading, data component might trigger an event such as
 dataWaitingForAsynchronousResponse and dataReceivedAsynchronousResponse to allow
 the UI to show and the spinner (but that will be done by separate UI component,
 which listens)
-*
+* event handlers: accept two parameters: a jQuery event, followed by a data object (the one
+    passed to the trigger method)
+* this book needs some bloody editing. desperately
+
+## Chapter 8 - Event Naming
+* be smart about names, as this is the interface
+* suggestions
+  * Data request: a request from UI for data, e.g. uiNeedsTask
+  * UI event: produced by UI, handled by both UI and data components
+  * don't separate events into user-initiated actions and actions performed by
+    UI components
+  * Data event: contains data; prefix followed by payload, e.g. dataTask,
+    dataTags
+  * Data error: e.g. dataTaskError; good practice to include original request
+    (event data payload from data/UI event) and response from server
+
+## Chapter 9 - Mixins
+* create similar to components, minus ```defineComponent```
+* include in components by requiring them (in addition to ```defineComponent```
+  and then including in ```return defineComponent(component, mixin);```
+* mixins will override similarly named methods declared in a component that
+  imports the mixin
+* can use before, after, and around methods for any method, not just initialize
+  ```this.after('someMethod', function() { }```
+* good way to handle customizing behavior inherited from mixin
+* before, after, around are part of Flight's "Advice" API
+
+# Chapter 10 - Templating and Event Delegation
+* interesting tool called [Hogan](http://twitter.github.com/hogan.js)
+* mostly skipped reading, as seems a bit orthoganal to Flight itself; but worth
+  revisiting templating topic
+
+# Chapter 11 - Web Application Performance
+skipped
+
+# Chapter 12 - Testing
+* includes example BDD (Jasmine) test
+* see [jasmine-flight](http://github.com/flightjs/jasmine-flight)
+* I'd like to also unit test components...
+
+# Chapter 13 - Complexities of Flight Architecture
+* ...
