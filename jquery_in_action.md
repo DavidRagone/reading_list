@@ -1,7 +1,7 @@
-#jQuery in Action#
-##Bear Bibeault & Yehuda Katz##
+# jQuery in Action
+## Bear Bibeault & Yehuda Katz
 
-###Chapter 1: Introducing jQuery###
+### Chapter 1: Introducing jQuery
 * unobstrusive JS = separate behavior from structure (same as using
 stylesheets to separate style from structure)
 * jQuery focuses on retrieving elements from HTML pages and performing
@@ -12,7 +12,7 @@ stylesheets to separate style from structure)
 * jQuery is easily extendable: $.fn.newFunction = function() { ... }
 * jQuery can be extended with plugins equally easily
 
-###Chapter 2: Creating the wrapped element set###
+### Chapter 2: Creating the wrapped element set
 * use slew of CSS selectors (including those from CSS3)
 * container selector (e.g. li:has(a)) - matches all <li> elements that
 contain an <a>; not same as "li a", which selects all a's inside li's
@@ -40,7 +40,7 @@ end()
 siblings()
 * contains() returns new wrapped set based on text passed as param
 
-###Chapter 3: Bringing pages to life with jQuery###
+### Chapter 3: Bringing pages to life with jQuery
 * attr when used to change an attribute can take a function
 * attr hwen used to update multiple attributes can be passed a JS object
 * removeAttr(name) removes specified attribute from all matched elements
@@ -56,7 +56,7 @@ in original location) if destination denotes multiple target elements
 * form elements: val() returns value of first element in matched set;
 likewise, val(value) sets fora ll matched elements
 
-###Chapter 4: Events are where it happens!###
+### Chapter 4: Events are where it happens!
 * Netscape Event Model, aka Basic Event Model, aka Browser Event Model,
 aka DOM Level 0 Event Model
 * when event handler is fired, instance of calss named Event is passed
@@ -72,7 +72,7 @@ event.stopProgagation(); (and Event.cancelBubble = true in IE ?)
 * jQuery Event Model: previously bind(), now on() - not omething htey
    knew when writing this in 2008
 
-###Chapter 8: Talk to the server with AJAX###
+### Chapter 8: Talk to the server with AJAX
 * XMLHttpRequest === XHR
 * $.get(url, params, callback); callback requires response body as first
 param and status as second
@@ -81,4 +81,4 @@ param and status as second
 251 for options
 * $.post(url, params, callback)
 * ajax global functions: ajaxStart(callback), ajaxSend(...),
-ajaxSuccess(...), ajaxError(...), ajaxComplete(...), ajaxStop(...) 
+ajaxSuccess(...), ajaxError(...), ajaxComplete(...), ajaxStop(...)

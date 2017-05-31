@@ -1,24 +1,24 @@
-#Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, Dave Hoover#
+# Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, Dave Hoover
 
-## Chapter 1 - Introduction ##
+## Chapter 1 - Introduction
 * Draws inspiration from medieval European model of craftsmanship, circa Industrial Revolution
 * Journeymen were nomadic, only means by which new techniques pass from city to city
 * Values of software craftsmanship:
-    * "Growth Mindset" (Carol Dweck) - a belief that you can be better and everything can be improved if you're prepared to work at it. "Effort is what makes you smart or talented". Failure is an incentive to try a different approach next time, not to give up. 
+    * "Growth Mindset" (Carol Dweck) - a belief that you can be better and everything can be improved if you're prepared to work at it. "Effort is what makes you smart or talented". Failure is an incentive to try a different approach next time, not to give up.
     * Need to always be adapting/cahnging based on feedback from the world around you
     * Desire to be pragmatic rather than dogmatic
     * Belief that it is better to share what we know than to create scarcity by hoarding it
     * Willingness to experiment and be proven wrong
     * Dedication ot an internal locus of control. Involves taking control of and responsibility for our destinies; non waiting for someone else to give us the answers
-    * Focus on individuals rather than groups. 
-    * Commitment to inclusiveness. 
-    * Skill-centric rather than process-centric. 
+    * Focus on individuals rather than groups.
+    * Commitment to inclusiveness.
+    * Skill-centric rather than process-centric.
     * Strong preference for "situated learning" - idea that the best way to learn is to be in the same room with people who are trying to achieve some goal using the skills you wish to learn
 * Your apprenticeship is under your control - the outcome is your responsibility
 * Being a journeyman adds additional focus on the connections between practicitioners, communication channels w/in and outside the team
 * Mastery adds responsibility to move the industry forward; take your gained consummate skill & technique and enhance the skills of others by orders of magnitude
 
-## Chapter 2 - Emptying the Cup ##
+## Chapter 2 - Emptying the Cup
 * Parable of young philosopher visiting Zen Master, philosopher is too preoccupied with what he knows to learn more from the Master
 * The more experience yo uhave, the more effort will be required to empty your cup, clearing mind of bad habits, setting aside pride in your skills, opening up to different, often counterintuitive, approaches
 * When looking to start a new language, pick a language based on who you know (preferably nearby?) that is an expert in that language; only need one expert, but need one
@@ -30,7 +30,7 @@
 * Learning in public (by exposing your ignorance & confronting it) is one of the ways in which an apprentice begins the transition to journeyman; small step from learning where people can see you to teaching
 * Risks are opportunities seen through the half-shut eyes of fear; jump in at the deep end (but don't let yourself drown) when feeling the need to challenge yourself with bigger things
 
-## Chapter 3 - Walking the Long Road ##
+## Chapter 3 - Walking the Long Road
 * The Long Road - aspiration to become a master software craftsman requires a life-long dedication; it's not about where you'll be in 5 years, but in 20, 30, etc.
 * Craft Over Art - software is a craft, not a fine art; built what's practical (and use what other tools exist) rather than building something beautiful just because you can
 * Sustainable Motivations - ensure your motivations for mastering the craft will adapt and survive through the trialas and tribulations you will surely face
@@ -40,7 +40,7 @@
 * Stay in the Trenches - if offered a position that pulls you away from programming, accept that anything less than full-time coding means atrophy of your ability to perform your craft
 * A Different Road - It's okay if the map you follow takes you off The Long Road; it may or may not be permanent
 
-## Chapter 4 - Accurate Self-Assessment ##
+## Chapter 4 - Accurate Self-Assessment
 * comparing ourselves to others is only useful when it allows us to find ways to help each other improve
 * Be the Worst - when your learning has leveled off due to being better than your entire team and development organization, find and surround yourself with developers who are better than you. As weakest on a new team, you'll need to work the hardest; goal is not to stay the weakest, but to start at the bottom and work your way up.
 * Find Mentors - (insert obvious things about benefits of mentors here) Go get them.
@@ -48,7 +48,7 @@
 * Rubbing Elbows - if you develop software alone, find ways to sit with another dev and accomplish a hands-on task together, side-by-side
 * Sweep the Floor - when a new apprentice on a project, find/volunteer for simple, unglamorous, yet necessary, tasks in order to contribute to the team's work, earn trust, and grow
 
-## Chapter 5 - Perpetual Learning ##
+## Chapter 5 - Perpetual Learning
 * Core of software development is learning, communication, and demonstration of learning abilities
 * Must learn how to learn, and be able to apply that skill even as a Master Craftsman
 * Expand Your Bandwidth - When understanding of dev is narrow, with ofcus on low-level details of your day-job, seek out new knowledge and experience in multiple dimensions
@@ -61,7 +61,7 @@
 * Create Feedback Loops - create mechanisms for regularly gathering more or less objective external data about your performance
 * Learn How You Fail - Seek to identify the ways in which you tend to fail, and try to resolve those that are worth fixing
 
-## Chapter 6 - Construct Your Curriculum ##
+## Chapter 6 - Construct Your Curriculum
 * Reading List - is a mechanism for sharing books you've read and managing books you plan to read, and also for reflecting on past reading habits
 * Read Constantly - (that)
 * Study the Classics - ask about unknown concepts/theories you hear about and the books they came from; read them

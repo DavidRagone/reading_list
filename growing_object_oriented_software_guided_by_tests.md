@@ -1,8 +1,8 @@
-#Growing Object Oriented Software, Guided by Tests#
-##Steve Freeman and Nat Pryce##
+# Growing Object Oriented Software, Guided by Tests
+## Steve Freeman and Nat Pryce
 
 
-## Part I - Introduction ##
+## Part I - Introduction
 * TDD is deceptively simple; writing tests first moves them from being about keeping bugs away from the users to helping the development team understand the needed features and deliver them reliably and predictably
 * Chapter 1 - What is the Point of Test-Driven-Development?
     * need empirical feedback to learn about system & its use; need feedback cycles
@@ -42,7 +42,7 @@
     * Details on Java frameworks used in the book's detailed examples (JUnit v4, Hamcrest, jMock2)
     * test fixture: the fixed state that exists at start of test; ensures test is repeatable
 
-## Part II - The Process of Test-Driven Development ##
+## Part II - The Process of Test-Driven Development
 * Chapter 4 - Kickstarting the Test-Driven Cycle
     * awesome Frank Tibolt quote: "We should be taught not to want for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action."
     * start with build deploy and test on a nonexistent system - essential not to leave to later
@@ -77,7 +77,7 @@
     * write layer of adapter objects that use the third-party API to implement the interfaces; test these adapters with focused integration tests
     * some exceptions to mocking third-party libraries, e.g. behavior that's hard to trigger (exceptions)
 
-## Part III - A Worked Example ##
+## Part III - A Worked Example
 * Chapter 9 - Commissioning an Auction Sniper
     * XMPP: the eXtensible Messaging and Presence Protocol
         * a protocol for streaming XML elements across the network
@@ -102,7 +102,7 @@
     * coding is like rock-climbing: apply the "three-point contact" rule - move one hand/foot at a time to minimize risk of falling off; each move is minimal & safe
     * refactoring is a design activity - need to apply all dev skills simultaneously to it
 
-## Part IV - Sustainable Test-Driven Development ##
+## Part IV - Sustainable Test-Driven Development
 * Chapter 20 - Listening to the Tests
     * make the boundaries of an object clearly visible; objects should only deal with values and instances that are local (created/managed within its scope) or passed explicitly
     * logging: distinguish between debug & trasce (diagnostic logging as infrastructure for programmers, on only in dev/test environments) from errors & info (support logging as part of UI, on in production)

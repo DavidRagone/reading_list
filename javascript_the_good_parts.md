@@ -1,7 +1,7 @@
-#JavaScript: The Good Parts#
-##Douglas Crockford##
+# JavaScript: The Good Parts
+## Douglas Crockford
 
-###Chapter 1: Good Parts###
+### Chapter 1: Good Parts
 * DOM is the API of hte browser; not JS's fault
 * good: functions, loose typing, dynamic objects, expressive object
 literal notation
@@ -10,7 +10,7 @@ literal notation
 properties directly from other objects, not a class
 * JS depends on global variables for linkage
 
-###Chapter 2: Grammar###
+### Chapter 2: Grammar
 * can not use reserved words (see list pp 6-7) as name of object
 property in an object literal or following a dot in a refinement
 * JS has singl enubmer type,r epresented as 64-bit float point
@@ -23,7 +23,7 @@ itself
 variables
 * falsy values: false, null, undefined, empty string, numbers 0 & null
 
-###Chapter 3: Objects###
+### Chapter 3: Objects
 * objects in JS are mutable keyed collections
 * arrays, functions, regexps, and objects are all objects
 * object is container of properties, where property has a name and a
@@ -43,7 +43,7 @@ retrieve from prototype, all the way up to Object.prototype
 * suggestion to create a single global variable for your app to
 namespace and avoid complications with other libs
 
-###Chapter 4: Functions###
+### Chapter 4: Functions
 * functions in JS are objects
 * every function created with 2 hidden properties: its context and code
 that implements its behavior
@@ -116,7 +116,7 @@ on same object in sequence
 e.g. produce a new function by combining function and an argument
 * Memoization: see awesome function example on pp. 45
 
-###Chapter 5: Inheritance###
+### Chapter 5: Inheritance
 * prototypal: objects inherit directly from other objects
 * JS conflicted about prototypal nature; unnecessary indirection
 requiring objects being produced by constructor functions
@@ -149,7 +149,7 @@ vars of the function)
 params and vars defined in second step
     4) return the new object
 
-###Chapter 6: Arrays###
+### Chapter 6: Arrays
 * array: a linear allocation of memory in which elements are accessed by
 integers used to compute offsets; fast - JS doesn't have this
 * JS provides an object w/ array-like characteristics; converts array

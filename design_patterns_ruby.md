@@ -1,9 +1,9 @@
-## Forward ##
+## Forward
 - most useful thing about patterns is forming vocabulary for articulating design decisions
 
-## Preface ##
+## Preface
 
-## Part I - Patterns and Ruby ##
+## Part I - Patterns and Ruby
 * Chapter 1: Building Better Programs with Patterns
   * complexity of software development makes it easy to miss patterns
 of challenges and solutions seen repeatedly
@@ -28,7 +28,7 @@ _has_ something
 implement features, or design in flexibility, that you don't need right
 now
 
-## Part II - Patterns in Ruby ##
+## Part II - Patterns in Ruby
 * Chapter 3: Varying the Algorithm with the Template Method
   * build an abstract base class with skeletal method (called a template
 method)
@@ -93,7 +93,7 @@ sub-objects, and those perhaps from still smaller sub-sub objects
        component, but also a higher-level object built from subcomponent
   * common mistake when using composite pattern is assuming only one
 level of depth, and making all child components of a composite are leaf objects,
-and not other composites; 
+and not other composites;
   * cool gem for GUI - FXRuby
 * Chapter 7: Reaching into a Collection with the Iterator
   * Iterator pattern allows an aggreagte object to provide otuside world
@@ -165,7 +165,7 @@ language
   * Interpreter pattern helpful if find self creating lots of discrete
 chunks of code that seem easy to write by selves, but need to combine in
 over-expanding combinations
-  * Interpreters work in two phases: 
+  * Interpreters work in two phases:
     1. Parser  reads in program text, produces a data strcture called an
        abstract syntax tree (AST); AST can be executed reasonably
 efficiently
@@ -174,7 +174,7 @@ efficiently
   * ASTs are specialized examples of Composite pattern
   * AST evaluates self by recursively descending down tree
 
-## Part III - Patterns for Ruby ##
+## Part III - Patterns for Ruby
 * Chapter 16: Opening Up Your System witih Domain-Specific Languages
   * focus on the language, not the interpreter; provide a convenient
 syntax

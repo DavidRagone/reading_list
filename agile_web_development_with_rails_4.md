@@ -1,4 +1,4 @@
-#Agile Web Development with Rails 4
+# Agile Web Development with Rails 4
 
 Note: Rather than my usual chapter-by-chapter notes, I wrote down page numbers.
 You'll see those in parentheses (sometimes).

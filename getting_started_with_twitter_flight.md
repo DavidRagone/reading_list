@@ -24,7 +24,7 @@
 * oh look Twitter uses it
 
 
-## Chapter 4 - 
+## Chapter 4 -
 * how to install things called Flight
 
 

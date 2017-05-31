@@ -1,11 +1,11 @@
-# Pickaxe #
+# Pickaxe
 
-#Programming Ruby 1.9: The Pragmatic Programmers' Guide #
+# Programming Ruby 1.9: The Pragmatic Programmers' Guide
 
-## Dave Thomas, Chad Fowler, Andy Hunt ##
+## Dave Thomas, Chad Fowler, Andy Hunt
 
 
-### Part 1 - Facets of Ruby ###
+### Part 1 - Facets of Ruby
 Chapter 2: Ruby.new
 * when creating string literal, single-quote version results in minimal Ruby processing; double-quote version results in more processing, due to looking for substitutions & interpolation
 * global variables begin with $; instance variables @; class variables @@
@@ -86,7 +86,7 @@ Chapter 12: Fibers, Threads, Processes
 
 Chapter 13: Unit Testing
 * Ruby 1.8 came with Nathaniel Talbott's Test::Unit pre-installed; 1.9 comes with Ryan Davis' MiniTest
-* TestUnit usage: 
+* TestUnit usage:
     require 'test/unit'
     class TestRoman < Test::Unit::TestCase
       def test_2
@@ -106,7 +106,7 @@ Chapter 14: When Trouble Strikes!
 * Ruby profile library, use command-line option '-r profile', will produce list of methods, with frequency run and time to execute
 
 
-### Part II - Ruby in Its Setting ###
+### Part II - Ruby in Its Setting
 Chapter 15: Ruby and Its World
 * useful ruby options: '-c' checks syntax only; '-I directories' specifies directors to be prepended to $LOAD_PATH ($)
 * ARGV: all strings passed to file when run, as array
@@ -120,20 +120,20 @@ Chapter 15: Ruby and Its World
 
 Chapter 16: Namespace, Sources files, and Distribution
 * names of clases & modules are constants: the name used for a class (e.g. String) is a Ruby constant containing the object representing that class
-* file locations: 
+* file locations:
     anagram/ <- top level
             bin/ <- command-line interface goes here
             lib/ <- library files, broken up by functionality
             test/ <- test files
 
 Chapter 17: Character Encoding
-* 1.9 allows non-ASCII encoding 
+* 1.9 allows non-ASCII encoding
 
 Chapter 18: Interactive Ruby Shell
 * irb within irb: use 'jobs' to see all open/running, and 'fg' to switch
 
 
-### Part III - Ruby Crystallized ###
+### Part III - Ruby Crystallized
 Chapter 22: The Ruby Language
 * is a reference to the core Ruby language
 
