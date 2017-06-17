@@ -14,6 +14,12 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans?ac=1&from_search=true) Michael Lopp
+
+> I wrote some [detailed notes](managing_humans.md), but overall it was an
+> enjoyable read, mixing useful categorizations, entertaining but informative
+> stories, and useful advice.
+
 #### [Getting Started with Twitter Flight](https://www.goodreads.com/book/show/18702049-getting-started-with-twitter-flight)
 
 > I'm excited to use Flight.js in something more than a toy app, and look forward
