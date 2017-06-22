@@ -186,12 +186,12 @@ Roles (what rands refers to as "bellwethers") in interview teams:
   * Slogan: "Pardon me, what?"
   * He doesn't work b/c he spends half his time half-listening to the meeting. He's a net negative, b/c he's not listening or working.
   * Ask Larry to put his computer away, or leave the meeting
-  * If notes must be taken, designate one person to do oit
+  * If notes must be taken, designate one person to do it
 * **Mr. Irrelevant**
   * Slogan: "I'm just happy to be here."
   * Who invited this guy? What were they trying to do? Why is this guy being
     paid to do nothing in this meeting? There's a reason he's in the meeting,
-    and you nee dto understand it.
+    and you need to understand it.
 * **Chatty Patty**
   * Slogan: "I don't shut up"
   * Main issue is time. Figure out if Chatty Patty is actually Mr Irrelevant.
