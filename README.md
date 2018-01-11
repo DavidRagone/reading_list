@@ -14,6 +14,11 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) Tom DeMarco & Timothy Lister
+
+> I wrote up what I underlined and some of the marginalia I wrote while reading [here](https://github.com/DavidRagone/reading_list/blob/master/peopleware.md).
+> Overall, it was an inspiring and challenging (in the I want to do better for my team sort of way) book, and I'd certainly recommend it.
+
 #### [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans?ac=1&from_search=true) Michael Lopp
 
 > I wrote some [detailed notes](managing_humans.md), but overall it was an
