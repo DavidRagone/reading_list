@@ -354,12 +354,126 @@
   * strongly recommend role-playing; ask people who would report to the new EM to ask to help w/ problems they have now, or have had in recent past
   * a mgr must be able to debug teams; describe time ran a project that was behing schedule, what did in that scenario; or how caoched employee struggling and helped great employees grow to new levels
   * how stay hands-on, how delegate?
-  
+* managing outside your skill set
+  * be very curious
+  * not expected to know everything just b/c you're a mgr
+  * ask to teach you about the work they do
+  * treat as if they were your mentor
+  * make clear your goal is to understand what they do so you're capable of appreciating it better
+* debugging dysfunctional orgs
+  * believe best EMs are often great debuggers
+  * obsessive debugging of one-off issues is not always best  use of time, but shows mind that won't be satisfied w/ the unknown
+  * managing teams is a series of complex black boxes interacting with other complex black boxes; have inputs and outputs that can be observed, but whenoutputs aren't as expcted, figuring out why require trying to open them up and see what's going on inside
+  * just as sometimes don't have source code or it's in a language you don't know or logfiles aren't readable, black boxes of teams can resist yield their inner workings
+  * to debug a team, look for a hypothesis on why team is having problems; be minimally invasive
+  * not generally single failures, more like performance issues - slow down from time to time, occassional crashes
+  * check the data: look at team chats, emails, tickets, code reviews, check-ins; are prod incidents taking up lots of team's time? are people sick? are they bickering over code style? are tickets too vague, too big, too small? are they in meetings all day?
+  * sit in on their meetings
+  * boring meetings are a sign; may indicate team doesn't feel they can actually help set direction of the team, or choose the work that will happen; signal lack of healthy conflict on a team
+  * good meetings have healthy discussion element, where opinoins and ideas drawn out of team; if meetings are overscripted, no real conversation can take place
+  * ask questions: what are their goals? do they understand why those are the goals? who are they building systems for? did they have any part in deciding the goals and projects to achieve them? if not, why not?
+  * a bunch of people who never talk to each other and are always working on indpendent projects are not really working as a team
+  * it's ok to jump in and help debug team issues as you see them, particularly when manager in question is struggling
+* setting expectations & delivering on schedule
+  * one of most frustrating questions: why is something taking so long?
+  * hopefully you're being asked b/c the something is running over plan by a significant margin
+  * often asked this when our leadership didn't like the original estimate or didn't ask for it at all
+  * you **must** always be aggressive about sharing estimates and updates to estimates, even when people don't ask, especially if you believe the project is critical or likely to take longer than a few weeks
+  * be aggressive about getting estimates
+  * negotiate the process your team uses to estimate, on what timescale, for what projects
+  * engineers often don't want to estimate at all
+    * philosophy is completely reasonable if you believe estimates must be fairly accurate, requirements are unknown or will change frequently, most of the work should be bound to features that mostly fit within one or two sprints
+    * but few of those things are always true
+    * estimates useful even if not perfectly accurate b/c they escalate the complexity to teh rest of the team
+    * it's possible to do up-front work to drastically reduce the unknowns
+    * businesses that wan to plan and get ideas of cost for effort
+    * goal setting and learning how toget better at understanding the complexity of our software
+* roadmap uncertainty
+  * think about how to break down big projects into series of smaller deliverables, such that you can achieve some of the results even if you don't necessarily complete the grand vision
+  * don't overpromise future of technical projects b/c roadmap for "later" hasn't been written yet; if important, get it sheduled now, or as soon to now as possible; once "later" rolls around, will be long list of competing priorities from other parts of business
+  * dedicate 20% of team's schedule to "sustaining engineering" - refactoring, fixing outstanding bugs, improving eng process, doing minor cleanup, providing ongoing support
+  * understand how important various engineering projects really are
+    * how big is the project?
+    * how important is it?
+    * can you articulate the value of that project to anyone who asks?
+    * what would successful completion of the project mean for the team?
+    * talk about what will be possible when the work is done
+    * never enough time for all the exploratory engineering, legacy code cleanup, and technical quality ipmrovements - pick your battles
+  * when projects/teams change, best thing you can do is help people feel capable of tying up loose ends, stabilizing current in-flight projets, easing into their new work in a controlled fashion; this is an area where you can and should push back; get adequate time to finish up current work
+* staying technically relevant
+  * mgrs who don't stay technical enough sometimes find themselves in bad habit of acting as a go-between for senior mgmt and their teams; instead of filtering requests, they realy them to the team and then relay team's response back up to mgmt; this is not a value-add role
+  * if your team invests time poorly, it will reflect on you as their leader for not helping them come to better decisions
+  * how should you invest your time in order to stay technically relevant?
+    * read the code
+    * pick an unknown area, ask an engineer to explain it to you; whiteboard or pair on a small change
+    * attend postmortems; may learn that standards you thought were obvious have been neglected or ignored; communication between teams is lacking, tooling is hurting more than helping
+    * keep up with industry trends in software development processes
+    * foster network of technical people outside your company
 
 ## 8 - The Big Leagues
 
+* CTO/VP Eng job can vary highly; but there's a number of specific roles of senior eng leadership positions
+  * R&D: in companies focusing on expanding cutting edge of technology, leader focused on experimentation, research, new tech generation; might own tech strategy, or be purely for finding new ideas
+  * Technology strategy/visionary: tech strategy meets product development; often also manages product org; focused on how tech can be used to grow the business, predict evolution of tech as it applies to company's industry
+  * Organization: guides structure and people; owns plans for staffing team, structure, ensuring projects are staffed accordingly
+  * Execution: usually paired with organization, makes sure thigns actually get done; helps align roadmaps, plan work, coordinate large efforts; makes sure projects get prioritized; breaks roadblocks, resolves conflicts, makes decisions to get team moving forward
+  * Face of tech, external: useful when company sellings software-based products to other companies, and for building eng brand
+  * Infrastructure and technical operations manager: can be cost-focused, security-focused, scaling-focused
+  * Business executive: first focus is business; understands industry, other essential functions of business at high level; balances internal dev needs w/ business growth needs, owns prioritization of projects at high level
+* VP Eng job is both big one and detail-oriented one; hard to hire for b/c engineers reluctant to trust peopple w/o technical credibility, and mgrs at this level not interested in going through hard technical interview process since role is mostly about organizational managent
+* CTO
+  * is not necessarily best engineer in the company
+  * should be strategic technical executive company needs in its current stage of evolution - changes over time
+  * shape business strategy through lends of technology
+  * identify areas where tech can be used to create new or bigger lines of business, align w/ overall company strategies, or ensure tech is always evolving to ancipate potential futures of business and product roadmap
+  * must protect tech team from becoming pure execution arm for ideas w/o tending to its own needs and ideas
+  * difficult to maintain influence and effectiveness as executive w/ no reporting power
+  * business strategy job first and foremost; also a mgmt job
+* fastest route to being VP of ENg is to get mgmt experience at a larger organization and then join a growing startup
+* changing priorities
+  * can suddenly get question: so why aren't you working on the top priority
+  * when feel need to ask of your own teams, ask yourself why they don't understand what priorities are and what should be cutting to address them
+  * many problems will get raised to you and then resolved on their own, so may decide you need degree of sustained struggle from team before it's time to step in
+* strategy
+  * went from having only vague idea of what setting strategy meant to having concrete, forward-thinking strategy encompassing way to think about both technical architecture and engineering team's structure
+  * start by doing research
+    * consider team, tech had built, and company
+    * ask what pain points are
+    * ask execs where they expect growth to come from
+    * where scaling challenges are, where might be in future
+    * find productivity bottlenecks
+    * study tech landscape, how it might change in near future - what changes are key to your business (e.g., personalization, mobile development)
+  * strategy meant tech architecture but also team structure and underpinnings of business and directions in which it was headed
+  * tech strategy for product-focused companies enables many potential futures of the business; not just reactive document, but anticipates and enables future growth
+  * not about deciding product's direction, but enabling larger roadmap to play out successfully
+  * hard to make guess about future w/ highly imperfect info
+* the echo
+  * you're no longer one of the team; first time is peers at leadership/exec level, reporting structure is now second team
+  * detach socially from overall org
+  * socializing heavily w/ team outside of working hours is thing of the past
+  * detach b/c don't want to (or be accused of) playing favorites
+  * need to learn to lead effecitvely, requires people to take your words seriously; if maintain buddy image, reports will have hard time distinguishing between buddy thinking out loud and boss asking them to focus on something
+  * can no longer be one of the team whose ideas are evaluated and potentially rejected - you are no longer that person
+  * transparency that may have been harmless or even possibly helpful at lower levels of mgmt can become incredibly damaging to the stability of the team at this level
 
 ## 9 - Bootstraping Culture
 
+* when talking about structure w/ skeptics, reframe: structure --> learning, process --> transparency
+  * don't set up systems b/c structure and process have inherent value
+  * do it b/c want to learn from successes and mistakes, and share those and encode the lessons in a transparent way
+  * think of process as risk mgmt
+  * process should have value even when they are not followed perfectly; value should largely lie in act of socializing change or risk to team as a whole
+* pick strategy and run w/ it; cultivate decisiveness in face of massive number of options; find something will get you through to the next milestone
+* pretending to lack structure tends to create hidden power structures
+* reason you find lots of spaghetti code in early startups: when work is done to satisfy an immediate task, in unified code base worked on by team of interchangeables, result is not thoughtful structure, but a tweak here, a hack there - anything to get the job done and moving forward
+* structure is how we scale, diversity, and take on more complex long-term tasks
+* culture is the generally unspoken shared rules of a community
+* reinforce culture by rewarding people for exhibiting its values in a positive way; reach through part of you that is shy about praising people or embarrassed to share your feelings, and go into the part of you that cares about the people you work with
+* writing a career ladder
+  * use both long-form descriptions and summaries: instead of just visualizing level as set of skills and attributes, long-form ladder reads a bit like a performance review of a person operating well at each level
+* structuring cross-functional teams
+  * engineers who have best product sense, capable of getting features done quickly and efficiently, who communicate best w/ other functions will start to emerge as leaders of team
+  * be aware of product/business vs tech focus and apply where makes sense
+  
 
 ## 10 - Conclusion
