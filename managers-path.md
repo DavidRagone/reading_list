@@ -2,7 +2,7 @@
 ### A Guide for Tech Leaders Navigating Growth & Change
 ### by Camille Fournier
 
-## Management 101
+## 1 - Management 101
 
 * expect 1-1s to be scheduled w/ some predictability so you can plan for them
 * not your maanger's job to completely control the 1-1 agenda
@@ -12,14 +12,14 @@
 * as you become more senior, amount of personal feedback you get likely to decrease; expect type of feedback to change from personal to team or strategy related input
 * as become more senior, mgr expect you to bring solutions, not problems; don't expect mgr to solve problems; when have problem, try asking for advice on how mgr might approach it
 
-## Mentoring
+## 2 - Mentoring
 
 * mentoring means feeling of being responsible for another person
 * taste of mgmt
 * early lessons in leadership = people are not good at saying precisely what they mean in a way that others can exactly understand
 * incredibly important to set expectations - communicate what needs to happen
 
-## Tech Lead
+## 3 - Tech Lead
 
 * good communicator, good at prioritizing, eager to push work forward, decide what needed to be done next, and willing to pick up the pieces and do what needed to be done to make progress
 * tech lead is not the job for the person who wants the freedom to focus deeply on the details of her own code
@@ -72,7 +72,7 @@
     * you pay the price of communication overhead
     * instead of every member of team in a meeting, you represen the team, communicate their needs, and bring info from that meeting back to the team
     
-## Managing People
+## 4 - Managing People
 
 * "new manager" is an entry level job w/ no seniority on any front
 * 2 jobs: manage individuals while simultaneously being responsible for running a team
@@ -144,7 +144,7 @@
 * if you avoid tackling negative feedback until it builds to boiling point, you're going to be met w/ pile of excuses, and then what do you do?
 * "coaching out": make situation clear to IC; have told them repeatedly what next level looks like, they haven't been able to shwo they can work at that level, so you don't think your team is the right place for them to grow their career; aren't firing them, but you are telling them that they need to move on if they want to progress
 
-## Managing a Team
+## 5 - Managing a Team
 
 * identify bottlenecks in progress, roadblocks to success; clear them
 * identify most high-value projects, keep team focused on them
@@ -199,7 +199,7 @@
   * be selective about what you bring to the team to estimate
     * part of your job is to handle uncertainty, limit how much of that uncertainty you expose to your team
 
-## Managing Multiple Teams
+## 6 - Managing Multiple Teams
 
 * strong technical background
 * spend some of time researching new technologies and staying abreast of tends in tech industry
@@ -248,15 +248,118 @@
   * are your teams learning how to operate independently, or are you keeping them dependent on you for critical functions? list taks you and only you know how to do for the team; many are important to teach your teams to accomplish themselves
   * project mgmt, onbaording new team members, working w/ product team to break down roadmap goals into technical deliverables, production support
 * delegation is a process that starts slwo but turns into essential element for career growth
+* lack of engagement in meetings tends to mean team isn't engaged by work or do not feel like they have a say in the decision-making process
+* strategies for sayign no
+  * manager's job involves making it easy for employees to get things done by creating fertile environments in which work can happen
+  * enabler, coach, champion
+  * sometimes have to say no; no to team, no to peers, no to boss
+  * Yes, And...
+    * saying no to boss is rarely actually a matter of saying "no"
+    * "Yes, we can do that proejct, and all we will need to do is delay the start of this other project that is currently on the roadmap"
+    * responding positively while still articulating the boundaries of reality [dmr: THIS]
+    * it's a positive no - not the knee-jerk "no, that can't happen"
+    * this transforms contentious disagreements into realistic negotations for priority
+  * create policies
+    * help team understand what it takes to get to "yes"
+    * when you start repeating yourself, you have the absis for a reasonable policy
+    * hard requirements that must be met inorder to say yes
+    * guidelines for thinking about the decision
+  * help me say yes
+    * ask questions and dig in on elements that seem questionable to you
+    * often helps people come to realization themselves that tehir plan isn't a good idea
+  * appeal to budget
+    * lay out current workload in plain terms, show how there is little room to maneuver
+    * coupled with "not right now" (another somewhat passive-aggressive way of saying no)
+  * work as a team
+    * will be times whne you and your peers, especially across function (pm, biz, etc), will need to act together to say no
+  * won't have luxury to carefully investigate and analyze every decision, so practice getting comfortable with quick no and quick yes for low-risk, low-impact decisions
+* turn your technical focus to observing and improving systems of work
+  * develop an eye for the tehcnical health signals for the team
+  * 3 questions for _First, Break All the Rules_
+    * Do I know wfhat is expected of me at work?
+    * Do I have the materials and equipment I need to do my work right?
+    * Do I have the opportunity tod o what I do best every day?
+  * frequency of code releases, frequency fo code check-ins, infrequency of incidents are all key inndicators of team that knows what to do, has tools, has time to do it every day
+* design systems and processes that will keep thing smoving; create the tools that developers need to do their jobs; always ask yourself if they can be automated further
+* as technical leader, you're still repsonsible for the technical side of getting work done
+  * also responsible for keeping your team happy and productive, and often the solution is not paying them more or cheerleading; it's enabling them to be more productive, challenign them to go faster and do better work
+  * dmr: Ask your team: How could you do more / go faster / be more productive?
+  * have to be advocate and push for technical process improvemens that can lead to increased engineer productivity
+* analysis around incident mgmt should include the question: "Is our current setup enabling my team to do what they do best every single day?"
+  * incident mgmt when merely reacting to incidents rather than working to reduce them diminishes team's ability to do what they do best
+* purpose-based binding: strong alignemtn between the team, its individuals, and the overall company
+  * purpose-driven teams are more open to new ideas and value changes that can help them serve their purpose better
+* impatience and laziness, when applied to process, are the key elements to focus
+  * what you want to teach is how to focus
+  * practice modeling figuringout what's important, and going home
+  * any time you see something beinng done that feel inefficient, question it
+    * what is the value in the thing we are doing?
+    * can we deliver that value faster?
+    * can we strip down this project into something simpler and get it done more quickly?
+  * "faster" is not about the same number of hours but fewer total days, it's about the same value to the company in less total time
+
+## 7 - Managing Managers
+
+* not that differenet from managing multiple teams
+* difference is one of magnitude; coverage area for those teams has increased, more people and proejcts than you could possibly handle by yourself
+* may manage a larger scope of efforts
+* need to follow-up on all the little things until you figure out what you don't need to follow up on; is recruiting happening? are mgrs coaching their teams? has everyoen written up goals for the quarter? have you reviewed them? what is thhe status of that project that should be finishing up? did the postmortem happen for that prod incident from the other day? did you read the report?
+* part of the job of mgr is to ferrret out problems proactively - hence open door policies don't really get you to effectively do your job
+* skip-level mtgs: purpose is to help you get perspective on the health and focus of your teams
+* most successful when you provide prompts about potential topics, remind person that the meeting is largely for his or her benefit; each person should come prepared to focus onw hat he/she is interestedd in talking about
+  * some suggested prompts
+    * what do you like best/worst about the project you are on?
+    * who on your team has been doing really well recently?
+    * do you have any feedback for your mgr - what's going well, what isn't?
+    * what changes do you think we could make to the proudct?
+    * are there any opportunities you think we might be missing?
+    * how do you think the organization is doing overall? anything we could do better/more/less?
+    * are there any areas fo the business strategy you don't understand?
+    * what's keeping you from doing your best work right now?
+    * how happy (or not) are you working at the company?
+    * what could we do dto make working at the company more fun?
+  * can do skip-level lunches; doesn't give you focus to give career coaching to individuals, but does help you get sense of the group dynamics and get feedback directly from teams; they may feel uncomfortable complaining in fron tof others about problems they're having w/ their mgr
+* manager accountability
+  * your mgrs are responsible for taking a team of people and helping that team succeed
+  * you have to hold them accountable
+  * accountability on complex teams is often muddled - constantly changing product roadmaps from PM, errant tech lead, full-time firefighting mode are all problems that can arise and aren't really owned by EM
+  * but in all cases, the EM is accountable; despite mitigating circumstances in each case, mgr ultimately needs to take responsibility for pulling the team out of these situations and getting them moving forward, b/c **EM is accountable for the health and productivity of the team**
+  * you'll need to help your mgrs
+  * sometimes they don't have the clout to push back against product and need your support
+  * may need your help finding other senior people to partner with their tech lead
+  * support them inshifting support burdene to other teams
+  * they've done hard work of identifying the problems that are slowing down their teams, you need ot help them find the solutions or support the path forward
+  * EMs job is to bring you clear problems before they turn into raging fires
+  * in all this, ensure you make time for feedback and coaching
+* managing new managers
+  * don't know what they don't know
+  * runing 1-1s for example, is an intimidating iexperience the first time you do it; what do you talk about? how do you give feedback? how do you keep track of takeaways?
+  * ask your new EM how her 1-1s are going; see what quesitons or challenges she may need help with
+  * let her know you'll be holding skip-levels frequently
+  * common sign of struggling EM is overwork; probably failing to hand off old responsibilities - HELP identify opportunities to do so
+  * overwork also sign of EM who thinks she's in control; taskmastger of the team, making all decisions
+  * new EM needs to be on top of team's performance and delivery, guiding them to focus on their goals and deliver results
+  * sometimes new EMs fail to realize that htey are now responsible for this delivery, and believe themselves helpless in face of challenging goals or product roadmaps
+  * need to coaach them through this process [dmr: everything] at first; set expectation up front that you'll hold her accountable for the team, and help her build the skills to achieve this
+  * recommend seeking out additional external training
+* managing experienced EMs
+  * mgmt tends to be very culture-specific task in a comapny
+  * mgrs create sub-cultures
+  * skills of modern development best practices and inspiring creative product-centric engineers are more improtant than industry-specific knowledge; easier to gain access to industry info than to reterain someone who doesn't know how to work in your culture
+  * think about what your culture values and help your mgrs embody those values
+  * experienced person shold be capable of operating independently
+  * 1-1s with them are less about nuts and bolts and more about how can have larger impact on strategy and direction setting for the area
+  * experienced mgrs often need help expanding their network
+* hiring EMs
+  * strongly recommend role-playing; ask people who would report to the new EM to ask to help w/ problems they have now, or have had in recent past
+  * a mgr must be able to debug teams; describe time ran a project that was behing schedule, what did in that scenario; or how caoched employee struggling and helped great employees grow to new levels
+  * how stay hands-on, how delegate?
+  
+
+## 8 - The Big Leagues
 
 
-## Managing Managers
+## 9 - Bootstraping Culture
 
 
-## The Big Leagues
-
-
-## Bootstraping Culture
-
-
-## Conclusion
+## 10 - Conclusion
