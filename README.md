@@ -14,6 +14,13 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [The Phoenix
+Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project?ac=1&from_search=true)
+Gene Kim,  Kevin Behr, George Spafford
+
+> Full notes
+> [here](https://github.com/DavidRagone/reading_list/blob/master/phoenix_project.md)
+
 #### [The First 90
 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ac=1&from_search=true)
 Michael D Watkins
