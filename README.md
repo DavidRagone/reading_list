@@ -14,6 +14,13 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [The First 90
+Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ac=1&from_search=true)
+Michael D Watkins
+
+> Full notes
+> [here](https://github.com/DavidRagone/reading_list/blob/master/the_first_90_days.md)
+
 #### [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) Tom DeMarco & Timothy Lister
 
 > I wrote up what I underlined and some of the marginalia I wrote while reading [here](https://github.com/DavidRagone/reading_list/blob/master/peopleware.md).
