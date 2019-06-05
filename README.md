@@ -14,26 +14,55 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership)
+Jocko Willink and Leif Babin
+
+> The authors were SEALs and then ran a company ([Echolon Front](https://echelonfront.com/)), applying the lessons they
+> used as leaders in the SEALs to help leaders in companies succeed.
+> 
+> The big takeaway is in the title: take ownership of everything. Team's not
+> delivering? That's on you to help them be effective. Don't have context to understand why you were told to
+> do what you were told? That's on you - you should have asked. For anything, you
+> can (and should have) taken ownership and helped your team succeed. Excuses are
+> not acceptable.
+> 
+> While I appreciate the message, the content was repetitive and the war stories
+> were overdone. The good news is that it was a quick read, and once I appreciated
+> where to focus (thanks to the structure they used), it was easy to skim the
+> sections that weren't adding much value.
+
+> Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/extreme-ownership.md)
+
+__________________________________
+
 #### [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project?ac=1&from_search=true)
 Gene Kim,  Kevin Behr, George Spafford
 
 > Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/phoenix_project.md)
+
+__________________________________
 
 #### [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ac=1&from_search=true)
 Michael D Watkins
 
 > Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/the_first_90_days.md)
 
+__________________________________
+
 #### [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) Tom DeMarco & Timothy Lister
 
 > I wrote up what I underlined and some of the marginalia I wrote while reading [here](https://github.com/DavidRagone/reading_list/blob/master/peopleware.md).
 > Overall, it was an inspiring and challenging (in the I want to do better for my team sort of way) book, and I'd certainly recommend it.
+
+__________________________________
 
 #### [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans?ac=1&from_search=true) Michael Lopp
 
 > I wrote some [detailed notes](managing_humans.md), but overall it was an
 > enjoyable read, mixing useful categorizations, entertaining but informative
 > stories, and useful advice.
+
+__________________________________
 
 #### [Getting Started with Twitter Flight](https://www.goodreads.com/book/show/18702049-getting-started-with-twitter-flight)
 
