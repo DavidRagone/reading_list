@@ -14,6 +14,26 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
+Will Larson
+
+> While Will is a fan of systems thinking, his book falls quite short of
+> providing anything that close. Worse, the writing is painfully verbose and
+> drawn out - it's clear he's mostly copy-pasting blog post ideas (or perhaps
+> the entire posts themselves). The diagrams used throughout are laughably bad,
+> providing negative value and failing miserably to convey a useful idea, even
+> after spending time slogging through the extensive explantory text.
+
+> All that said, there's plenty of nuggets of value here. With an incredibly
+> talented (perhaps team of) editor(s), it's possible this could have turned
+> into a book worth reading. Thankfully the pages are thick, so if you're a good
+> skimmer then you could work through it reasonably quickly. But I wouldn't
+> advise it.
+
+> Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/elegant-puzzle.md)
+
+__________________________________
+
 #### [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 Jocko Willink and Leif Babin
 
