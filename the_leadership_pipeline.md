@@ -13,8 +13,8 @@
   * no cumulative effect from a comprehensive but flexible architecture, there's no solid base for development purposes
 * highest risk external hire situation involves people who are changing companies and changing layers simultaneously
 * ability to lead from a distance and communicate effectively online are skills that weren't considered until relatively recently
-  * [davidr] what are the actual traits and behaviors here?
-  * [davidr] skill, trait, behavior, experience, pattern, tool, value - need clarity on these words
+  * *[davidr] what are the actual traits and behaviors here?*
+  * *[davidr] skill, trait, behavior, experience, pattern, tool, value - need clarity on these words*
 
 ### Introduction
 
@@ -23,7 +23,7 @@
 * common organizational mindset is to view jobs as "work to be done" not as developmental assignments
 * little acknowledgment that different levels of leadership exist and that people need to make skill and value transitions at each level
 * hiring gifted people makes sense as a tactic by not a strategy
-  * [davidr] why? not supported
+  * *[davidr] why? not supported*
 * different level and complexity of leadership exists at each passage
   * these turns involve a major change in job requirements, demanding new skills, time applications, and work values
 * diagram on p8 - Figure 1.1
@@ -91,7 +91,7 @@
 
 * Monitoring. Ask questions about what's getting in the way of completing tasks effectively or what might facilitate the process
 * Highly interdependent. Need to build trust and open lines of communication vertically and horizontally 
-  * [davidr] and random dotted lines
+  * *[davidr] and random dotted lines*
 * ICs need to understand what's required of them as they move through first leadership level, and need to understand it **in specific rather than general terms**
 * Methods of learning
   * Coaching-Feedback
@@ -142,7 +142,7 @@
 * nature of working w/in a function is to think tactically and be responsible for one or two aspects of that function
   * most functional managers come up by performing well in one or perhaps two areas
   * e.g., head of marketing will have excelled in one of advertising, communications, brand management, product management, direct marketing, and so on
-  * [davidr] What are the equivalent eng areas? server, mobile, infra, hardware, qa, web, etc...
+  * *[davidr] What are the equivalent eng areas? server, mobile, infra, hardware, qa, web, etc...*
 * Up to this level, managers spent time creating supporting operating plans in given area for their function for the functional strategy; now must shift to creating functional strategy. Need:
   * Longer-Term Thinking (3-5 years)
   * State-of-the-Art Awareness (what's technically, operationally, and professionally possible)
@@ -185,11 +185,77 @@ SKIPPED. Will return to in the future
   * Look at their calendar to determine how spending time
   * Find out what work they're producing and the major focus of their efforts
   * Figure out what they do first thing each day; who meets w/, what type of work reveals priorities
-  * Discovery impact on others; direct reports, past and present, as well as people in other units. Developed direct reports effectively for current leadership levels? Interact well & frequently with people from other units?
+  * Discover impact on others; direct reports, past and present, as well as people in other units. Developed direct reports effectively for current leadership levels? Interact well & frequently with people from other units?
   * Overlay information on the Pipeline model. Analyze how actions & attitudes align or misalign with given level's skills, time applications, and values
   * Determine level at which they're actually working versus should be
 
 ### Chapter 9 - Performance Improvement. Clarifying Roles and Creating Performance Standards
 
-* 
+* Performance dimensions [**DISCUSS**]
+  * Operating results (revenues, cost, profit)
+  * Customer results (acquisition, retention, penetration, satisfaction)
+  * Leadership results (setting direction, communicating, developing people, setting standards)
+  * Management results (control, quality, timeliness)
+  * Relationships (working relationships, team play, internal and external, business and government)
+  * Social responsibility (doing right by the community, governments, and environment)
+  * Individual technical competence (those parts of the work that only you should do)
+* *[THINK] what would it look like to detail those for each level at (current company)?*
+* Critically important to define exceptional performance for each performance standard to prevent effective from being viewed as exceptional
+* For exceptional results to be exceptional, must have been achieved for significant period of time, usually three years [**DISCUSS**]
+* standards must be tailored to each level's skills, time applications, and values
+* The circles [p 188-189] :-D Full performance (circle filled w/ lines representing each standard), Not Yet Full Performance (gap inside), Exceptional performance (full circle and lines extending out), and Inappropriate performance (lines extending out w/ gaps inside)
+* As appoint individuals to new leadership passages, immediately create performance gap b/c they can't possess all skills, time applications, and values required for success at new level [**DISCUSS** - how does this differ from our promo approach?]
+* Action Learning - involves setting up teams of leaders who are all on same level and assigning them highly challenging task related to significant business objective
+  * stretch assignment, demand participants develop new skills, time applications, and values to succeed
+  * significant amount of time given to learning (guest speakers, research), team-building exercises, coaching, and reflection
+  * real business challenges integrate w/ personal growth and team activities so participants take it seriously
+  * end process often involves a presentation to a top executive; careers are impacted
+  * A coach facilitates the process
+  * *[THINK] what are (current company's) cross-cutting problems that we could benefit from solving?*
 
+### Chapter 10 - Succession Planning
+
+* traditionally, succession planning is equated w/ replacement planning
+* jobs must change to keep pace w/ ongoing changes in markets, products, business structures, and leadership requirements
+* "talent inventory": flawed from pipeline perspective, b/c it equates potential w/ performance
+* Succession planning is perpetuating the enterprise by filling the pipeline with high-performing people to ensure that every leadership level has an abundance of these performers to draw from, both now and in the future
+* Three Categories of Potential
+  * **Turn potential** - Able to do the work at the next level in three to five years or sooner
+  * **Growth potential** - Able to do the work of bigger jobs at the same level in the near term
+  * **Mastery potential** - Able to do the same kind of work currently being done, only better
+* pipeline isn't a straight tube, but filled w/ 90 degree bends. At each, people need to slow down to reflect, learn, and develop; acknowledging the track they're on will help them know the potential they have and set them up to willingly tackle the right assignments for their future
+* Need standards for each category of potential
+* Need to see an individual sustain a high level of performance (three years at least) to be considered turn potential
+* See exhibit 10.1, page 212-213 for example standards for judging each of 3 types of potential
+* 9 box on p 216 (performance & potential) [**DISCUSS** Who's done one of these? Helpful? Better w/ three categories of potential? ]
+* Compare to leadership pipeline-based 9 box: Mastery/Growth/Turn "likely future work contribution" vs exceptional/full/not yet full "sustained performance level"
+* Each leadership level should be looking at the ratings for at least two of the levels beneath them
+* Can't jump to filling in 9-box. Need to start from defining standards, clear job expectations, then measure and evaluate
+
+### Chapter 11 - Identifying Potential Pipeline Failures
+
+* purely functional value system asks "Can we do it?"; business manager asks "Should we do it?"; group executive asks "Which choice will give us the best result now and in the future?"
+* All managers, on being appointed to a new leadership level, should take it upon themselves to define their job
+  * not only skills, time applications, and values for level but also the performance standards
+  * never take job definitions for granted
+  * take initiative to define jobs for self, and define w/ specificity
+  * establish how will be measured and identify differences between role and those of people above and below
+  * Present to boss this understanding of what the job entails, and ask "Is this right?" NOT A QUESTION TO ASK ONLY ONCE. Discuss on a regular basis
+
+### Chapter 12 - The Functional Career Passage
+
+SKIPPED. Will return to in the future
+
+### Chapter 13 - Coaching
+
+* *[davidr] do we mean the same thing by coaching? these questions are one-time use, not for regular coaching*
+* Three key questions to ask during coaching sessions
+  * "Tell me about your career - your jobs, the work you did, achievements, key challenges, and learning.". Purpose = locate positions they held on pipeline. Did they skip a level? Mastered each level's skills, time applications, and values?
+  * "Talk about your current position. What are your issues, challenges, and achievements? What does your calendar look like, what skills do you rely on most to get the job done, and what beliefs govern your work?" Purpose = Determine whether person understands and is mastering appropriate skills, time applications, and values for their level. Assess whether obvious developmental needs exist
+  * "What are your career aspirations?" Purpose = Identify future development needs, given diff between current and aspiration. Suggest types of experience to help achieve goal. 
+* Managers often need to learn to coach. Not taught
+* Helpful to talk in terms of the passages. "If you're going to make it through the second leadership passage, you need to let go of value A and adopt value B; you have to let go of skill C and acquire skill D;  you have to let go of spending your time that way and learn to spend your time this way"
+
+### Chapter 14 - Benefits Up and Down the Line
+
+SKIPPED. Will return to in the future
