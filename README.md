@@ -14,6 +14,22 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map)
+Erin Meyer
+
+> A fascinating, story-driven but data-based exploration of the default behaviors of different cultures, with an eye to how our oversimplified assumptions of cultures miss the mark and the need to adjust ones approach and perspective when interacting with other cultures. Incredibly helpful when working across large national divides, I look forward to using this knowledge to find the right ways to communicate with my diverse team.
+
+> Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/the_culture_map.md)
+
+#### [The Leadership Pipeline](https://www.goodreads.com/book/show/1254.The_Leadership_Pipeline)
+Ram Charan, Stephen Drotter, Jim Noel
+
+> Possibly the best leadership/management book I've read to date, The Leadership Pipeline provides a clear framework for thinking about the differences in management roles, from managing others to leading a function to lead a business or group of businesses.
+> While a cynic might view the book as marketing material for the authors' consulting practice, the view and consideration of different roles in a large company's management hierarchy requiring different work values, time applications, and skill development both accurately reflects my experiences and clearly sets the right example (quite applicable without paying that extra consulting money) for implementation.
+
+> Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/the_leadership_pipeline.md)
+
+
 #### [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
 Will Larson
 
