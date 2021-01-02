@@ -14,6 +14,14 @@ I will include anything going forward that fits the desired subjects, but may ad
 
 ## Books I've Read
 
+#### [Inspired](https://www.goodreads.com/book/show/35249663-inspired)
+Marty Cagan
+
+> Marty truly knows what he's talking about when it comes to the role of product managers. There's some painfully accurate insights in this book, and I greatly appreciate how he defines the role and surrounding supporting needs to making for great product organizations and teams. 
+> Unfortunately, there's a lot of cruft here as well. Too much whitespace thanks to the ridiculous number of "chapters", and the profile case studies are pathetically short and provide nearly zero insight into the actual activities, actions, or role of the person being profiled. While I found this thoroughly disappointing, the highlights do seem to outweigh the downsides, but perhaps you'd be sufficiently well served by reading some summaries or just skipping to Cagan's blog.
+
+> Full notes [here](https://github.com/DavidRagone/reading_list/blob/master/inspired.md]
+
 #### [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map)
 Erin Meyer
 
